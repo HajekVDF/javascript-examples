@@ -23,12 +23,12 @@
 #     else:
 #         print(c, "je největší")
 
-# if(a>b and a>c):
-#     print("a", a)
-# elif(b>c):
-#     print("b", b)
-# else:
-#     print("c", c)
+if(a>b and a>c):
+    print("a", a)
+elif(b>c):
+    print("b", b)
+else:
+    print("c", c)
 
 
 
